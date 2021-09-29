@@ -1,0 +1,56 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "tabnine.experimentalAutoImports": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.requireConfig": true,
+    "prettier.requirePragma": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.useTabs": true,
+    "prettier.withNodeModules": true,
+    "trailing-spaces.deleteModifiedLinesOnly": true,
+    "trailing-spaces.trimOnSave": true,
+    "editor.fontSize": 18,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "javascript.format.semicolons": "insert",
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "js/ts.implicitProjectConfig.checkJs": true,
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.renderWhitespace": "all",
+    "editor.wordWrap": "on",
+    "editor.accessibilityPageSize": 15,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.codeActionsOnSave": true,
+    "editor.mouseWheelZoom": true,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "css.validate": false
+
+}
